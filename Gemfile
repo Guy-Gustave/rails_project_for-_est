@@ -64,3 +64,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'haml', '~> 5.2', '>= 5.2.2'
+gem 'simple_form', '~> 5.1'
+gem 'devise', '~> 4.8', '>= 4.8.1'
